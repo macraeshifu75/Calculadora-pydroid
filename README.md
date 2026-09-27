@@ -1,1 +1,1 @@
-# Calculadora-pydroid
+Esto es lo primero que subo a github, estaba aburrido y lo hice en mi teléfono en un viaje.
